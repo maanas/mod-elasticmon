@@ -1,0 +1,27 @@
+{
+  "name": "elasticmon",
+  "types": ["module"],
+  "version": "1.0.1",
+  "homepage": "https://github.com/maanas/mod-elasticmon",
+  "author": "Maanas Royy",
+  "description": "Store Elasticsearch cluster stats in Elasticsearch instance",
+  "contributors": [
+    {
+      "name": "Maanas Royy",
+      "email": "m4manas@gmail.com"
+    }
+  ],
+  "repository": "https://github.com/maanas/mod-elasticmon",
+  "keywords": [
+    "module",
+    "broker",
+    "log",
+    "logs",
+    "logstore",
+    "elasticsearch"
+  ],
+  "dependencies": {
+    "shinken": ">=2.0"
+  },
+  "license": "AGPL"
+}
