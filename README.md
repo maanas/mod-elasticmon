@@ -79,4 +79,4 @@ define module {
 ```
 
 ## Credits
-[https://github.com/descrepes/mod-elastic-logs](Mod Elastic Logs)
+[Mod Elastic Logs](https://github.com/descrepes/mod-elastic-logs)
